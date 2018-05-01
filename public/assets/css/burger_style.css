@@ -12,8 +12,8 @@
     width: 50%;
 }
 .background-image {
-    /* background-image: url("https://www.dailydot.com/wp-content/uploads/ad8/d1/parma_parma_parma_chameleon.png"); */
-    background-image: url("https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/24/211_02_06_tk4-0162.jpg/revision/latest?cb=20121103005842");
+    background-image: url("https://www.dailydot.com/wp-content/uploads/ad8/d1/parma_parma_parma_chameleon.png");
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
